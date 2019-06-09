@@ -37,7 +37,7 @@ end
 
 def #play
 counter = 0
-while counter < 
+while counter < 9
   puts "The current number is less than 20."
   counter += 1
 end
