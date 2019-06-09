@@ -36,6 +36,10 @@ def turn(board)
 end
 
 def #play
-
+counter = 0
+while counter < 
+  puts "The current number is less than 20."
+  counter += 1
+end
 
 
